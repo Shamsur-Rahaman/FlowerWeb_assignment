@@ -217,7 +217,9 @@ body{
     color: #272727;
     font-size: 14px;
 }
-
+.footer-shop{
+    color: rgb(238, 59, 88);
+}
 
 .service-container{
     display: flex;
