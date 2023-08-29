@@ -217,3 +217,22 @@ body{
     color: #272727;
     font-size: 14px;
 }
+
+
+.service-container{
+    display: flex;
+    gap: 100px;
+    /* text-align: center; */
+    /* align-items: center; */
+}
+.service-header{
+    text-align: center;
+    font-size: 40px;
+}
+.service-list-container ul li{
+    list-style: none;
+    margin-top: 10px;
+}
+.fa-check{
+    color: tomato;
+}
