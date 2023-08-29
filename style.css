@@ -194,3 +194,26 @@ body{
     font-size: 13px;
     margin-left: 10px;
 }
+
+.footer-section{
+    margin: 0;
+    padding: 0;
+    background-color: #020202;
+    height: 330px;
+    width: 100%;
+}
+.footer-container{
+    padding-top: 80px;
+    text-align: center;
+    color: white;
+}
+.footer-des{
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 12px;
+    color:#858484 ;
+}
+.footer-copy-right{
+    color: #272727;
+    font-size: 14px;
+}
